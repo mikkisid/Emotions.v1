@@ -8,6 +8,3 @@ opencv-python-headless
 numpy
 torchinfo
 git+https://github.com/jacobgil/pytorch-grad-cam.git
-
-
-
