@@ -4,9 +4,8 @@ torchvision
 torchaudio
 Pillow
 matplotlib
-opencv-python-headless
+opencv-python-headless==4.10.0.84
 numpy
 torchinfo
 git+https://github.com/jacobgil/pytorch-grad-cam.git
 
-opencv-python==0.0.0
